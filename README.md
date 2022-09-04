@@ -1,5 +1,5 @@
 
-# Dashboard administrativo
+# Dashboard Financeiro
 
 Este projeto é um dashboard financeiro, criado para praticar conceitos de React,
 e consome uma API fake feita com MirageJs, para consumir essa API foi usado o Axios e useContext e algumas bibliotecas.
