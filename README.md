@@ -39,3 +39,6 @@ Rode o projeto com:
  - [Styled components](https://styled-components.com/)
  - [MirageJs](https://miragejs.com/)
  - [ReactModal](https://reactcommunity.org/react-modal/)
+
+
+Projeto criado atravez do curso  ignite da rocketseat
